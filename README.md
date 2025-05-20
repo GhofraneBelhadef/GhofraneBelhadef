@@ -41,7 +41,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=GhofraneBelhadef&show_icons=true&locale=en&layout=compact" alt="GhofraneBelhadef" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GhofraneBelhadef" alt="GhofraneBelhadef" /></a></p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GhofraneBelhadef/GhofraneBelhadef/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GhofraneBelhadef/GhofraneBelhadef/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/GhofraneBelhadef/GhofraneBelhadef/output/github-snake.svg" />
 </picture>
