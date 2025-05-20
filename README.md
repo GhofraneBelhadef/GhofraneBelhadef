@@ -35,7 +35,7 @@
 <a target="_blank" href="https://symfony.com/logos/symfony_black_03.svg" style="display: inline-block;"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/ghofrane-belhadef  " style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/ghofrane-belhadef  " style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=GhofraneBelhadef&show_icons=true&locale=en" alt="GhofraneBelhadef" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GhofraneBelhadef&" alt="GhofraneBelhadef" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=GhofraneBelhadef&show_icons=true&locale=en&layout=compact" alt="GhofraneBelhadef" /></p>
