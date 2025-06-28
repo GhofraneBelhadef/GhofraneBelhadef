@@ -5,21 +5,47 @@
 
 ### 🚀 Technologies & Tools I'm Passionate About
 
-#### 🧠 AI & Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![GANs](https://img.shields.io/badge/GANs-00C853?style=for-the-badge) ![LSTM](https://img.shields.io/badge/LSTM-4B8BBE?style=for-the-badge) ![CNN](https://img.shields.io/badge/CNN-1E90FF?style=for-the-badge) ![RNN](https://img.shields.io/badge/RNN-6A5ACD?style=for-the-badge)
+#### 🧠 AI & Deep Learning
 
-#### 📊 Data Analytics & Visualization
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="42" height="42"/>
-</p>
+**Frameworks & Libraries**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace_Transformers-yellow?style=for-the-badge&logo=huggingface&logoColor=black)
 
-#### 🤖 LLMs, RAG & Agentic AI
-<p>
-  <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" alt="openai" width="42" height="42" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="42" height="42" />
-</p>
+**Model Architectures**  
+![CNN](https://img.shields.io/badge/CNN-1E90FF?style=for-the-badge)
+![RNN](https://img.shields.io/badge/RNN-6A5ACD?style=for-the-badge)
+![LSTM](https://img.shields.io/badge/LSTM-4B8BBE?style=for-the-badge)
+![GANs](https://img.shields.io/badge/GANs-00C853?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFDD00?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-FF1493?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-5E35B1?style=for-the-badge)
+
+**Domains & Applications**  
+🔹 Natural Language Processing (NLP)  
+🔹 Computer Vision (CV)  
+🔹 Prompt Engineering & LLM Fine-tuning  
+🔹 Retrieval-Augmented Generation (RAG)  
+🔹 Agentic AI (AutoGPT, BabyAGI)  
+🔹 Transfer Learning
+
+**Deployment & Tracking**  
+⚙️ FastAPI · Flask · Docker · Firebase  
+📊 MLflow · Weights & Biases (W&B)
+
+#### 📊 Data Analysis & Machine Learning
+
+**Languages & Libraries**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge&logo=seaborn&logoColor=white)
 
 #### ⚙️ Backend & Frameworks
 <p>
