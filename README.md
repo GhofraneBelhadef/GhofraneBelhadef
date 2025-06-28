@@ -24,18 +24,6 @@
 ![YOLO](https://img.shields.io/badge/YOLO-FF1493?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-5E35B1?style=for-the-badge)
 
-**Domains & Applications**  
-🔹 Natural Language Processing (NLP)  
-🔹 Computer Vision (CV)  
-🔹 Prompt Engineering & LLM Fine-tuning  
-🔹 Retrieval-Augmented Generation (RAG)  
-🔹 Agentic AI (AutoGPT, BabyAGI)  
-🔹 Transfer Learning
-
-**Deployment & Tracking**  
-⚙️ FastAPI · Flask · Docker · Firebase  
-📊 MLflow · Weights & Biases (W&B)
-
 #### 📊 Data Analysis & Machine Learning
 
 **Languages & Libraries**  
