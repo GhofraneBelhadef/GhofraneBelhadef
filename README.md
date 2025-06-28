@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghofrane</h1>
-<h3 align="center">AI & Data Analyst Enthusiast | LLM Enthusiast | RAG | Agentic AI | Computer Vision</h3>
+<h3 align="center">AI & Data Analyst Enthusiast | LLMs | RAG | Agentic AI | Computer Vision</h3>
 
 ---
 
@@ -24,14 +24,14 @@
 
 #### 🤖 LLMs, RAG & Agentic AI
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="openai" width="42" height="42" />
+  <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" alt="openai" width="42" height="42" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="42" height="42" />
 </p>
 
 #### ⚙️ Backend & Frameworks
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="42" height="42"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="flask" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="42" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="42" height="42"/>
 </p>
 
